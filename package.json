@@ -59,7 +59,7 @@
     "libphonenumber-js": "^1.10.6",
     "nocache": "^2.1.0",
     "node-fetch": "^2.6.1",
-    "nodemailer": "6.4.16",
+    "nodemailer": "6.9.5",
     "otplib": "12.0.1",
     "pascal-case": "^3.1.2",
     "passport": "0.4.1",
