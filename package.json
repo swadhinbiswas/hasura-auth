@@ -80,7 +80,7 @@
     "postinstall-postinstall": "^2.1.0",
     "qrcode": "1.4.4",
     "random-number-csprng": "^1.0.2",
-    "twilio": "^3.67.1",
+    "twilio": "^5.4.4",
     "url-join": "^4.0.1",
     "uuid": "7.0.3"
   },
